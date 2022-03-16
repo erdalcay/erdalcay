@@ -1,11 +1,7 @@
 ### Hi! :raised_hands:
 
-This is Erdal. 
+This is Erdal, I see triangles everywhere.
 
-I am a marketing & analytics engineer who loves to build tools for marketers, automate stuff and crunch some data. 
-
-I use mostly **Node.js** in my daily development routine and **R** & **Python** & **SQL** when it is for notebook development, data visualization and quantitative analysis.
-
-You can reach out to me via [**Twitter**](https://twitter.com/erdalcay).
+Reach out to me via [**Twitter**](https://twitter.com/erdalcay).
 
 Cheers!
